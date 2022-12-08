@@ -2196,7 +2196,7 @@ __metadata:
     nouislider: ^15.6.0
     rimraf: ^3.0.2
     sass: ^1.53.0
-  checksum: ac51a3a325feba2f1dbebaf4cea757b56985fe1777db4eaa74eb406c1630353b82bf11b3c2b9d1cec466426bbd8c7ca15344d732c26f4f498eed6547550642b0
+  checksum: 903b6b99eec5137f86d144139c04049573f3ccfa208f21f5b1d056b7c3ac694f36b51b02d0bfba7068b91d8b8bcc75a88f74c0737851f0adaf029cbe4e1c8565
   languageName: node
   linkType: hard
 
@@ -2661,9 +2661,9 @@ __metadata:
   linkType: hard
 
 "decode-uri-component@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "decode-uri-component@npm:0.2.0"
-  checksum: f3749344ab9305ffcfe4bfe300e2dbb61fc6359e2b736812100a3b1b6db0a5668cba31a05e4b45d4d63dbf1a18dfa354cd3ca5bb3ededddabb8cd293f4404f94
+  version: 0.2.2
+  resolution: "decode-uri-component@npm:0.2.2"
+  checksum: 95476a7d28f267292ce745eac3524a9079058bbb35767b76e3ee87d42e34cd0275d2eb19d9d08c3e167f97556e8a2872747f5e65cbebcac8b0c98d83e285f139
   languageName: node
   linkType: hard
 
