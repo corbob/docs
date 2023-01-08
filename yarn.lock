@@ -2196,7 +2196,7 @@ __metadata:
     nouislider: ^15.6.0
     rimraf: ^3.0.2
     sass: ^1.53.0
-  checksum: ac51a3a325feba2f1dbebaf4cea757b56985fe1777db4eaa74eb406c1630353b82bf11b3c2b9d1cec466426bbd8c7ca15344d732c26f4f498eed6547550642b0
+  checksum: 903b6b99eec5137f86d144139c04049573f3ccfa208f21f5b1d056b7c3ac694f36b51b02d0bfba7068b91d8b8bcc75a88f74c0737851f0adaf029cbe4e1c8565
   languageName: node
   linkType: hard
 
@@ -4722,11 +4722,11 @@ __metadata:
   linkType: hard
 
 "json5@npm:^2.2.1":
-  version: 2.2.1
-  resolution: "json5@npm:2.2.1"
+  version: 2.2.3
+  resolution: "json5@npm:2.2.3"
   bin:
     json5: lib/cli.js
-  checksum: 74b8a23b102a6f2bf2d224797ae553a75488b5adbaee9c9b6e5ab8b510a2fc6e38f876d4c77dea672d4014a44b2399e15f2051ac2b37b87f74c0c7602003543b
+  checksum: 2a7436a93393830bce797d4626275152e37e877b265e94ca69c99e3d20c2b9dab021279146a39cdb700e71b2dd32a4cebd1514cd57cee102b1af906ce5040349
   languageName: node
   linkType: hard
 
