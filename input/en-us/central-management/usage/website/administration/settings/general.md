@@ -5,6 +5,6 @@ Title: General
 Description: Information about using up general settings within the Administration Settings screen
 ---
 
-> :choco-warning: **WARNING**
->
-> This is a Work in Progress. Please check back later.
+The Chocolatey Central Management Administration Settings page loads the General tab by default. This page is used to set the Chocolatey Central Management default timezone.
+
+If a user does not set their own timezone for display from `My Settings`, then the selected timezone will be used for the display of all times within Chocolatey Central Management.
