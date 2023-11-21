@@ -20,6 +20,8 @@ Some examples of timezones that may not appear:
 
 Starting in Chocolatey Central Management version 0.12.0, if the chosen timezone is detected to be invalid, we will set it back to the default timezone and alert you through a notification.
 
-![Example notification for a user configured timezone being invalid](/assets/images/ccm/setup/settings)
+![Example notification for a user configured timezone being invalid](/assets/images/ccm/setup/settings/user-timezone-invalid-notification.png)
 
-If you received this notification, then it means that the timezone used for your user account was invalid, and the
+If you received this notification, then it means that the timezone used for your user account was invalid, and has been set back to the default used by Chocolatey Central Management.
+
+![Example notification for a Chocolatey Central Management configured timezone being invalid](/assets/images/ccm/setup/settings/user-timezone-invalid-notification.png)
