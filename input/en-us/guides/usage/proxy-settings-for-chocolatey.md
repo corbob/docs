@@ -98,7 +98,7 @@ Chocolatey will automatically pick up the following environment variables if the
 
 * `http_proxy`.
 * `https_proxy`.
-* `no_proxy`.
+* `no_proxy` - Chocolatey will treat this as a comma separated list of regex values.
 
 ## Explicit Proxy Settings
 
@@ -110,7 +110,7 @@ You can simply configure up to 5 settings and Chocolatey will use a proxy server
 choco config set --name="'proxy'" --value="'<LOCATION-AND-PORT>'"
 choco config set --name="'proxyUser'" --value="'<USERNAME>'" #optional
 choco config set --name="'proxyPassword'" --value="'<PASSWORD>'" # optional, will be encrypted in the configuration file
-choco config set --name="'proxyBypassList'" --value="'<BYPASS-LIST-COMMA-SEPARATED>'" # optional
+choco config set --name="'proxyBypassList'" --value="'<REGEX-BYPASS-LIST-COMMA-SEPARATED>'" # optional
 choco config set --name="'proxyBypassOnLocal'" --value="'true'" # optional
 ~~~~
 
@@ -134,7 +134,7 @@ Results in the following items being added to the config file:
 
 You can pass proxy information at runtime with each command. See https://github.com/chocolatey/choco/issues/1173
 
-`--proxy="'value'" --proxy-user="'<user>'" --proxy-password="'<pwd>'" --proxy-bypass-list="'<comma separated, list>'" --proxy-bypass-on-local`
+`--proxy="'value'" --proxy-user="'<user>'" --proxy-password="'<pwd>'" --proxy-bypass-list="'<REGEX-BYPASS-LIST-COMMA-SEPARATED>'" --proxy-bypass-on-local`
 
 ## What to do if My Proxy is Socks?
 
