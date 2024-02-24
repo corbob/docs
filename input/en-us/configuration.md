@@ -29,7 +29,7 @@ Config settings are adjusted using `choco config set --name="'<nameFromBelow>'" 
 * `proxy` = **' '** - Explicit proxy location.
 * `proxyUser` = **' '** - Optional proxy user.
 * `proxyPassword` = **' '**  - Optional proxy password. Encrypted.
-* `proxyBypassList` = **' '** - Optional proxy bypass list. Comma separated.
+* `proxyBypassList` = **' '** - Optional regex proxy bypass list. Comma separated.
 * `proxyBypassOnLocal` = **'true'** - Bypass proxy for local connections.
 
 ### Timeouts
