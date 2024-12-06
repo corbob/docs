@@ -1,6 +1,6 @@
 ---
 order: 0
-xref: highlight-2024-12-04-chocolatey-cli-1.4.1
+xref: highlight-2024-12-04-chocolatey-cli-2.4.1
 title: What's new in Chocolatey CLI v2.4.1
 description: Learn all about what's new in Chocolatey CLI v2.4.1.
 highlight:
