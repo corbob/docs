@@ -2,12 +2,12 @@
 order: 0
 xref: highlight-sidebar-top-highlights
 title: Chocolatey product releases
-description: See what products we released in December.
+description: We recently released new versions of Chocolatey CLI, Chocolatey Licensed Extension, and Chocolatey Agent.
 highlight:
-  postedDateTime: 2024-11-12T00:00:00Z
+  postedDateTime: 2024-11-12T00:00:02Z
   ctaXref: highlights
   ctaAnchor: december-2024
-  ctaText: View December highlights.
+  ctaText: View December's highlights
   showOnHome: false
   showOnHighlights: false
   showInSidebar: true
